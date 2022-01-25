@@ -1,0 +1,3 @@
+name,ip,dtype,username
+R1,10.0.0.1,cisco_ios,cisco_admin
+F1,10.0.0.2,paloalto_panos,palo_admin
